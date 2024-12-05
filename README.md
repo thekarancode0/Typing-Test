@@ -1,6 +1,6 @@
 # Typing-Test
 <h5>Hello This is me Karan. I'm a <b>Frontend Developer</b></h5>
-<h5>Flash Typing Test</h5> <h3> V.0.1 </h3>
+<h3>[Flash Typing Test](https://thekarancode0.github.io/Typing-Test/)</h3> <h3> V.0.1 </h3>
 
 <h6>It's a three layer projects</h6>
 <ul>

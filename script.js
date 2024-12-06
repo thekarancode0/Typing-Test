@@ -11,6 +11,7 @@ const sentence = "A computer is a machine that can be programmed to automaticall
 let totalTime = 30;
 userInput.readOnly = true;
 start.addEventListener("click", () => {
+    userInput.focus();
     sentenceDiv.innerHTML = sentence;
     let timeValue = totalTime;
     timer.innerHTML = timeValue;

@@ -43,6 +43,7 @@ body {
     align-items: center;
     color: #ffffff2d;
     z-index: -2;
+    box-shadow:3px 3px 7px #132d50;
 }
 
 .firstRow,
@@ -97,7 +98,7 @@ body {
     justify-content: start;
     align-items: center;
     /* padding-top: 20px; */
-    background-color: #000000bd;
+    background-color: #0000004b;
     overflow: hidden;
 }
 
@@ -111,7 +112,7 @@ body {
 }
 .sentence {
     width: 60%;
-    height: 30%;
+    height: 31%;
     font-size: 1.2rem;
     padding: 10px;
     background-color: white;
@@ -177,6 +178,8 @@ body {
     text-align: start;
     padding: 5px;
     border-radius: 5px;
+    color:black;
+    font-weight: 500;
 }
 
 /* Layer 3 showing the result  */
